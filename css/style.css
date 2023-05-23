@@ -1,0 +1,31 @@
+button{
+    margin-top: 2rem;
+}
+
+.container{
+    width: 180px;
+    background-color: rgb(142, 193, 193);
+}
+
+/* #output{
+    width: ;
+} */
+
+form{
+    background-color: rgb(97, 158, 158);
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+#height::-webkit-outer-spin-button,
+#height::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+}
+
+#weight::-webkit-outer-spin-button,
+#weight::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+}
+
